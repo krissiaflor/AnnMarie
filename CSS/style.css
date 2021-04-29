@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../picture/IMG_20200206_012708.JPG);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.Heading{
+    text-align: center;
+    background: url(../picture/cbc22ca5a3d7568a742262639a9f6b3f.jpg);
+    background-size: cover;
+}
+#profile{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    padding: 50px 0;
+
+}
+@font-face{
+    src: url(../fonts/Sacramento/Sacramento-Regular.ttf);
+    font-family: "Sacramento";
+}
+@font-face{
+    src: url(../fonts/chaparral-pro/ChaparralPro-Regular.otf);
+    font-family: "Chaparral Pro";
+}
+#Intro-Heading{
+    text-align: center;
+    color: rgb(24, 207, 207);
+    font-size: 80px;
+    font-style: normal;
+    font-family: "Sacramento";
+
+}
+#Sub-Heading{
+    text-align: center;
+    font-size: 35px;
+    font-style: normal;
+    padding-top: 10px;
+    font-family: "Chaparral Pro";
+    padding-bottom: 50px;
+    color:  rgba(35, 172, 172, 0.856);
+}
+.Introduction{
+    padding-top: 75px;
+    text-align: center;
+    font-family: "Chaparral Pro";
+    font-size: 25px;
+}
+.Welcome{
+    padding-left: 100px;
+    padding-right: 50px;
+}
+#gif {
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    border: blue solid 1px;
+}
+.Skills{
+    padding-top: 75px;
+    text-align: center;
+    font-family: "Chaparral Pro";
+}
+#opening{
+    text-align: center;
+    font-family: "Chaparral Pro";
+    color: rgba(0, 128, 128, 0.829);
+    font-size: 45px;
+}
+#auseless{
+    text-align: center;
+    font-family: "Chaparral Pro";
+    color: rgba(0, 128, 128, 0.829);
+    font-size: 45px;
+    padding-top: 50px;
+}
+#saying{
+    font-size: 32px;
+    color:  rgba(35, 172, 172, 0.856);
+    text-align: center;
+    padding-bottom : 50px;
+}
+
+#selfthought,#notreally,#crazy,#psycho,#bad,#really,#dontbelieveit{
+    text-align: center;
+    font-family: "Chaparral Pro";
+    padding-top: 20px;
+    font-size: 25px;
+}
+.ending{
+    text-align: center;
+    font-family: "Chaparral Pro";
+    padding-top: 25px;
+}
+#please{
+    text-align: center;
+    font-family: "Chaparral Pro";
+    color: rgba(0, 128, 128, 0.829);
+    font-size: 45px;
+}
+#ineedyou{
+    text-align: center;
+    font-family: "Chaparral Pro";
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-size: 25px;
+}
+#letstalk{
+    padding-top: 80px;
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
+.footer{
+    text-align: center;
+    padding: 25px 0;
+    background: url(../picture/crop.jpg);
+    background-size: cover;
+}
+#notfriendly{
+    font-size: 15px;
+    font-family: "Chaparral Pro";
+    color: white;
+}
